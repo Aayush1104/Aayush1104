@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi there! I'm Aayush<br><br>I'm a 2A Computer Engineering student at the University of Waterloo<br><br>Currently seeking Winter 2024 Internships
+
+Hi there! I'm Aayush 👋
+
+I'm a 2A Computer Engineering student at the University of Waterloo 🎓
+
+🌟 Currently seeking Winter 2024 Internships 🌟
+
+
+---
 
 
 ## 🌐 Socials:
